@@ -1,7 +1,7 @@
 # LaparoscopySim
 Utilizing ur3 with end effectors to set up laparoscopic training simulator in gazebo
 
-![](https://github.com/Darius0852/LaparoscopySim/lapsim.mp4)
+![](https://github.com/Darius0852/LaparoscopySim/blob/master/lapsim.mp4)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------
