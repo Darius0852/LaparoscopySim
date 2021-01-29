@@ -68,6 +68,8 @@ You can change the sleeve spawn position and properties in its SDF file.
 
 7. Now everything should be setup correctly. You can control the ur3's with the keyboard while the pygame window is clicked on.
 
+![](https://github.com/Darius0852/LaparoscopySim/blob/master/Screenshot%202020-12-17%20at%2001.38.36.png)
+
 The 6 ARM commands are:
 UP DOWN LEFT RIGHT IN OUT  -  One of my reports will detail how this works. Essentially UP DOWN LEFT RIGHT are rotations around the training box hole (such that the tool does not move further into the box) and IN OUT exclusively moves the tool in and out of the training box.
 
