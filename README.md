@@ -2,7 +2,7 @@
 Utilizing ur3 with end effectors to set up laparoscopic training simulator in gazebo
 
 ![](https://github.com/Darius0852/LaparoscopySim/blob/master/lapsimu.gif)
-
+![](https://github.com/Darius0852/LaparoscopySim/blob/master/lapreal.gif)
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
